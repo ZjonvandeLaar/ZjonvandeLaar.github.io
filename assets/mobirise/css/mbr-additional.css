@@ -130,7 +130,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #149dcc !important;
+  background-color: #073b4c !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -146,8 +146,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #073b4c !important;
+  border-color: #073b4c !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -155,14 +155,14 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #0d6786 !important;
-  border-color: #0d6786 !important;
+  background-color: #010506 !important;
+  border-color: #010506 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #0d6786 !important;
-  border-color: #0d6786 !important;
+  background-color: #010506 !important;
+  border-color: #010506 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -310,22 +310,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #0b566f;
-  color: #0b566f;
+  border-color: #000000;
+  color: #000000;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #149dcc;
-  border-color: #149dcc;
+  background-color: #073b4c;
+  border-color: #073b4c;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #073b4c !important;
+  border-color: #073b4c !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -462,7 +462,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #149dcc !important;
+  color: #073b4c !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -487,7 +487,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #0b566f !important;
+  color: #000000 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -545,8 +545,8 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #149dcc;
-  border-color: #149dcc;
+  background-color: #073b4c;
+  border-color: #073b4c;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -563,11 +563,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #149dcc;
+  color: #073b4c;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #b4e6f8;
+  color: #4ac6ee;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -685,7 +685,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #149dcc;
+  border-color: #073b4c;
   border-width: 3px;
 }
 ul,
@@ -773,7 +773,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #149dcc;
+  border-color: #073b4c;
   color: #232323;
   cursor: pointer;
 }
@@ -784,7 +784,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #149dcc;
+  background: #073b4c;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -792,11 +792,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #149dcc;
+  background: #073b4c;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #149dcc;
+  color: #073b4c;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -1375,12 +1375,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #073b4c;
+  background: #a9e3f7;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #073b4c;
+  background: #a9e3f7;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1464,7 +1464,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #073b4c;
+  background: #a9e3f7;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1535,7 +1535,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #149dcc;
 }
 .cid-qTkzRZLJNu button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1767,6 +1767,17 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-r1OvelQHTU {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #f9f295;
+}
+.cid-r1OvelQHTU .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r1OvelQHTU H2 {
+  color: #073b4c;
+}
 .cid-r1KFWwIIp4 {
   background-image: url("../../../assets/images/gemeentehuis-brabantsche-illustratie-1927-1414x1476.jpg");
 }
@@ -1780,37 +1791,48 @@ body {
 .cid-r1KFWwIIp4 .mbr-section-btn {
   color: #ffffff;
 }
-.cid-r1LurLXeXG {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-r1OYf0fzum {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #a9e3f7;
+}
+.cid-r1OYf0fzum .mbr-text {
+  color: #767676;
+}
+.cid-r1OYf0fzum h4 {
+  text-align: center;
+}
+.cid-r1OYf0fzum p {
+  text-align: center;
+}
+.cid-r1OYf0fzum .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-r1OYf0fzum .card-title,
+.cid-r1OYf0fzum .card-img {
+  color: #051d25;
+}
+.cid-r1OuG4rWap {
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #073b4c;
 }
-.cid-r1LurLXeXG .line {
-  background-color: #55b4d4;
-  color: #55b4d4;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+.cid-r1OuG4rWap .mbr-text,
+.cid-r1OuG4rWap blockquote {
+  color: #767676;
 }
-.cid-r1LurLXeXG .section-text {
-  padding: 2rem 0;
-}
-.cid-r1LurLXeXG .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-r1LurLXeXG .inner-container {
-    width: 100% !important;
-  }
+.cid-r1OuG4rWap .mbr-text {
+  color: #ffffff;
 }
 .cid-r1LqVZdWN6 .navbar {
   padding: .5rem 0;
-  background: #073b4c;
+  background: #a9e3f7;
   transition: none;
   min-height: 77px;
 }
 .cid-r1LqVZdWN6 .navbar-dropdown.bg-color.transparent.opened {
-  background: #073b4c;
+  background: #a9e3f7;
 }
 .cid-r1LqVZdWN6 a {
   font-style: normal;
@@ -1894,7 +1916,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r1LqVZdWN6 .dropdown .dropdown-menu {
-  background: #073b4c;
+  background: #a9e3f7;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1965,7 +1987,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #149dcc;
 }
 .cid-r1LqVZdWN6 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2199,12 +2221,12 @@ body {
 }
 .cid-r1LtHLsxjQ .navbar {
   padding: .5rem 0;
-  background: #073b4c;
+  background: #a9e3f7;
   transition: none;
   min-height: 77px;
 }
 .cid-r1LtHLsxjQ .navbar-dropdown.bg-color.transparent.opened {
-  background: #073b4c;
+  background: #a9e3f7;
 }
 .cid-r1LtHLsxjQ a {
   font-style: normal;
@@ -2288,7 +2310,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r1LtHLsxjQ .dropdown .dropdown-menu {
-  background: #073b4c;
+  background: #a9e3f7;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2359,7 +2381,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #149dcc;
 }
 .cid-r1LtHLsxjQ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2590,4 +2612,23 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-r1Vp98jBCO {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/oudwijf-808x486.png");
+}
+.cid-r1Vp98jBCO H2 {
+  color: #073b4c;
+}
+.cid-r1VDw8U5tD {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/op-heterdaad-697x446.jpg");
+}
+.cid-r1VDw8U5tD H2 {
+  color: #073b4c;
+}
+.cid-r1VDw8U5tD .mbr-section-subtitle {
+  color: #073b4c;
 }
