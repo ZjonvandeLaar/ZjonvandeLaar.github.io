@@ -2227,25 +2227,6 @@ body {
 .cid-r4tjU3IZMf H2 {
   color: #073b4c;
 }
-.cid-r21FDoQY9N {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/beter-een-goede-buur-691x692.jpg");
-}
-.cid-r21FDoQY9N H2 {
-  color: #073b4c;
-}
-.cid-r1VDw8U5tD {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/op-heterdaad-697x446.jpg");
-}
-.cid-r1VDw8U5tD H2 {
-  color: #073b4c;
-}
-.cid-r1VDw8U5tD .mbr-section-subtitle {
-  color: #073b4c;
-}
 .cid-r1LtHLsxjQ .navbar {
   padding: .5rem 0;
   background: #a9e3f7;
@@ -2635,27 +2616,83 @@ body {
 .cid-r1LtHLsxjQ .dropdown-item:hover {
   color: #55b4d4 !important;
 }
-.cid-r1Vp98jBCO {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/oudwijf-808x486.png");
+.cid-r9nDHqCCiC {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #073b4c;
 }
-.cid-r1Vp98jBCO H2 {
+.cid-r9nDHqCCiC .card-box {
+  background-color: #0f7699;
+  padding: 2rem;
+}
+.cid-r9nDHqCCiC h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-r9nDHqCCiC p {
+  color: #767676;
+  text-align: left;
+}
+.cid-r9nDHqCCiC .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-r9nDHqCCiC .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-r9nDHqCCiC .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-r9nDHqCCiC .card-title {
   color: #073b4c;
 }
-.cid-r21y3gcgp7 {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/ruzie-640x360.jpg");
-}
-.cid-r21y3gcgp7 H2 {
+.cid-r9nDHqCCiC P {
   color: #073b4c;
 }
-.cid-r21IRQ4FqO {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/goede-moordenaar-1040x600.jpg");
+.cid-r9z42lzo26 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #a9e3f7;
 }
-.cid-r21IRQ4FqO H2 {
-  color: #073b4c;
+.cid-r9z42lzo26 .card-box {
+  background-color: #0f7699;
+  padding: 2rem;
+}
+.cid-r9z42lzo26 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-r9z42lzo26 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-r9z42lzo26 .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-r9z42lzo26 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-r9z42lzo26 .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-r9z42lzo26 .card-title {
+  color: #55b4d4;
+}
+.cid-r9z42lzo26 P {
+  color: #55b4d4;
 }
