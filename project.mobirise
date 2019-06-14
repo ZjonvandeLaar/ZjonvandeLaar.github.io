@@ -80,7 +80,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "Startpagina Zjon van de Laar",
-        "header_custom": "",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-142105433-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-142105433-1');\n</script>\n",
         "footer_custom": "",
         "html_before": ""
       },
